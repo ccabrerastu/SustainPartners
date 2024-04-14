@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [12/Apr/2024:09:32:45 -0500] "GET / HTTP/1.1" 200 2471 http-bio-8080-exec-1 375
+0:0:0:0:0:0:0:1 - - [12/Apr/2024:09:32:45 -0500] "GET /Assets/arbol.png HTTP/1.1" 200 10443 http-bio-8080-exec-3 2
+0:0:0:0:0:0:0:1 - - [12/Apr/2024:09:32:45 -0500] "GET /Assets/partners.png HTTP/1.1" 200 10541 http-bio-8080-exec-2 1
+0:0:0:0:0:0:0:1 - - [12/Apr/2024:09:32:45 -0500] "GET /Assets/projects.png HTTP/1.1" 200 14414 http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [12/Apr/2024:09:32:45 -0500] "GET /Assets/landing.mp4 HTTP/1.1" 206 8395 http-bio-8080-exec-8 2
+0:0:0:0:0:0:0:1 - - [12/Apr/2024:09:32:46 -0500] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-9 2
+0:0:0:0:0:0:0:1 - - [12/Apr/2024:09:32:48 -0500] "GET /login HTTP/1.1" 200 2732 http-bio-8080-exec-10 28
+0:0:0:0:0:0:0:1 - - [12/Apr/2024:09:32:48 -0500] "GET /Assets/landing.mp4 HTTP/1.1" 206 4587520 http-bio-8080-exec-7 15
+0:0:0:0:0:0:0:1 - - [12/Apr/2024:09:32:48 -0500] "GET /Assets/login.mp4 HTTP/1.1" 206 20391593 http-bio-8080-exec-10 52
+0:0:0:0:0:0:0:1 - - [12/Apr/2024:09:32:56 -0500] "POST /login HTTP/1.1" 200 2913 http-bio-8080-exec-6 2207
